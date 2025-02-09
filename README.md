@@ -1,45 +1,31 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# LeetCode Challenges
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 62<br>
+**Conteúdo da Disciplina**: Programação Dinâmica<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 221022570 | Gabryel Nícolas Soares de Sousa |
+| 221022275 | Felipe Amorim de Araújo |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+
+O projeto consiste em resolver problemas do site LeetCode utilizando programação dinâmica e aplicando os conceitos aprendidos no conteúdo de PD na disciplina de Projeto de Algoritmos. Os problemas resolvidos, links e resoluções estão listados abaixo.
+
+| Nome do Problema | Link | Dificuldade | Resolução |
+| -- | -- | -- | -- |
+|  |  |  |  |
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python, C++ 
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para executar as resoluções basta rodar o comando `python3 nome_do_arquivo.py` ou `g++ nome_do_arquivo.cpp -o nome_do_arquivo` e em seguida `./nome_do_arquivo`. Ou copiar o código e colar no site do LeetCode. 
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+## Vídeo
 
-
-
-
+<!-- link do video -->
